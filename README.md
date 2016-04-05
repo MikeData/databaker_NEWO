@@ -1,6 +1,6 @@
 # New Orders in the Construction Industry
 
-An example of the reference table being converted can be found here: h
+An example of the reference table being converted can be found here:
 https://www.ons.gov.uk/businessindustryandtrade/constructionindustry/datasets/newordersintheconstructionindustry
 
 Please note. We use github for versioning purposes only. If anyone wants the actual data involved it will always be easily accessible via the ONS website (www.ons.gov.uk) and API service.
